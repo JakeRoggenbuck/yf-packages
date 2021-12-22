@@ -1,6 +1,6 @@
 # yf-packages
 
-# Looking up packages in python (for example)
+### Looking up packages in python (for example)
 ```py
 import requests
 import json
